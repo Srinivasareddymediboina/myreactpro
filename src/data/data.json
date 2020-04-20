@@ -1,0 +1,48 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Niharika",
+                "role" : "Multi skill Trainer",
+                "email" : "niharika@gmail.com",
+                "mobile": "+91 9888786858"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "Annamacharya engineering college, chittore"
+                },
+                {
+                    "degree":"Diploma(Computer engineering)",
+                    "institution":"MVGR polytechnic college"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Bhasyam public school"
+                }
+            ]
+        },
+        {
+            "basicInformation": {
+                "name" : "Sateesh M",
+                "role" : "Multi skill Trainer",
+                "email" : "sateesh.m@apssdc.in",
+                "mobile": "+91 9777876757"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "Annamacharya engineering college, chittore"
+                },
+                {
+                    "degree":"Diploma(Computer engineering)",
+                    "institution":"MVGR polytechnic college"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Bhasyam public school"
+                }
+            ]
+        }
+    ]
+}
