@@ -11,13 +11,15 @@ class Profile extends React.Component{
                 <div className="card"> 
                     <div className="card-top">
         <h3> {specificProfile.basicInformation.name} </h3>
-    <em> {specificProfile.basicInformation.email} </em>
+    
                      </div>
 
                      <div className="card-bottom">
-<a href={"mailto:"+specificProfile.basicInformation.email}> {specificProfile.basicInformation.email}  </a> <br />
+<a href={"mailto:"+specificProfile.basicInformation.email}> 
+{specificProfile.basicInformation.email}  </a> <br />
 
-<a href={"tel:"+specificProfile.basicInformation.mobile}> {specificProfile.basicInformation.mobile}</a>
+<a href={"tel:"+specificProfile.basicInformation.mobile}> 
+{specificProfile.basicInformation.mobile}</a>
                      </div>
                 
                 </div>

@@ -2,45 +2,45 @@
     "profiles":[
         {
             "basicInformation": {
-                "name" : "Niharika",
-                "role" : "Multi skill Trainer",
-                "email" : "niharika@gmail.com",
-                "mobile": "+91 9888786858"
+                "name" : "Srinivasa Reddy",
+                "role" : "Technical skill Trainer",
+                "email" : "nivas0803@gmail.com",
+                "mobile": "+91 8466865901"
             },
             "education":[
                 {
                     "degree":"B-Tech (ECE)",
-                    "institution": "Annamacharya engineering college, chittore"
+                    "institution": "St Ann's College of Engineering"
                 },
                 {
-                    "degree":"Diploma(Computer engineering)",
-                    "institution":"MVGR polytechnic college"
+                    "degree":"Diploma(ECE)",
+                    "institution":"Bapatla Engineering College"
                 },
                 {
                     "degree":"SSC",
-                    "institution": "Bhasyam public school"
+                    "institution": "Z P High School"
                 }
             ]
         },
         {
             "basicInformation": {
-                "name" : "Sateesh M",
-                "role" : "Multi skill Trainer",
-                "email" : "sateesh.m@apssdc.in",
-                "mobile": "+91 9777876757"
+                "name" : "Viswanth Reddy",
+                "role" : "CEO",
+                "email" : "viswanth1914@gmail.com",
+                "mobile": "+91 9398811500"
             },
             "education":[
                 {
                     "degree":"B-Tech (ECE)",
-                    "institution": "Annamacharya engineering college, chittore"
+                    "institution": "IIT Mumbai"
                 },
                 {
                     "degree":"Diploma(Computer engineering)",
-                    "institution":"MVGR polytechnic college"
+                    "institution":"Engineering College"
                 },
                 {
                     "degree":"SSC",
-                    "institution": "Bhasyam public school"
+                    "institution": "Chirala International school"
                 }
             ]
         }
