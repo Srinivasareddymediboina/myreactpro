@@ -42,10 +42,13 @@ return(
         <a href={"mailto:"+i.basicInformation.email}> {i.basicInformation.email}  </a> <br />
 
         <a href={"tel:"+i.basicInformation.mobile}> {i.basicInformation.mobile}</a> <br />
-        <Link to={{pathname:"/profile",data:{id:index}}}> View Profile >> </Link>
+        <Link to={{pathname:"/profile",data:{id:index}}}> View Profile </Link>
       </div>
         </div>
       ))}
+      <section className="parent">
+
+      </section>
 </section>
 )
 }

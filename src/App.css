@@ -39,22 +39,28 @@
 
 .parent{
   display: flex;
-  flex-flow: row-wrap;
+  flex-flow: column;
+  align-items: center;
   justify-content: center;
+
 }
 
 .card {
   width: 30%;
+  color:orange;
   border: 1px solid #ddd;
-  box-shadow: 8px 8px 8px  orange;
+  text-shadow: 3px 3px 3px 3px green;
+  box-shadow: 8px 8px 8px orange;
   text-align: center;
   margin: 1%;
   border-radius: 10px;
-  height: 150px;
+  height: 180px;
 }
 
 .card-top{
-  padding: 1%;
+  padding: 5%;
+
+
 }
 
 .card-bottom a{
@@ -68,12 +74,14 @@ box-shadow: 5px 5px 5px green;
 color: #fff;
 padding: 2%;
 border-radius: 0px 0px 10px 10px;
+text-shadow: 3px 3px 3px red;
 }
 
 .card2{
   width: 65%;
   border: 1px solid #ddd;
-  box-shadow:3px 3px 3px #000;
+  box-shadow:3px 3px 3px 3px #000;
+
   margin: 1%;
   border-radius: 10px;
 }
@@ -81,6 +89,7 @@ border-radius: 0px 0px 10px 10px;
 .header{
   background: blue;
   text-align: center;
+  font-size: 20px;
   color: red;
   width: 100%;
   position: fixed;
@@ -90,4 +99,13 @@ border-radius: 0px 0px 10px 10px;
 
 .header a{
   color: #fff;
+  text-shadow: 3px 3px 3px red;
+}
+ul{
+  color:blue;
+}
+li{
+  font-size: 20px;
+  color:orange;
+  font-style: italic;
 }
