@@ -47,6 +47,7 @@
 .card {
   width: 30%;
   color:orange;
+  background-color: #F9FAD3;
   border: 1px solid #ddd;
   text-shadow: 3px 3px 3px green;
   box-shadow: 8px 8px 8px #FDFBAA;
@@ -58,6 +59,7 @@
 
 .card-top{
   padding: 1%;
+  background-color: #F9FAD3;
 
 
 }
