@@ -39,8 +39,7 @@
 
 .parent{
   display: flex;
-  flex-flow: column;
-  align-items: center;
+  flex-flow: row-wrap;
   justify-content: center;
 
 }
@@ -49,8 +48,8 @@
   width: 30%;
   color:orange;
   border: 1px solid #ddd;
-  text-shadow: 3px 3px 3px 3px green;
-  box-shadow: 8px 8px 8px orange;
+  text-shadow: 3px 3px 3px green;
+  box-shadow: 8px 8px 8px #FDFBAA;
   text-align: center;
   margin: 1%;
   border-radius: 10px;
@@ -58,23 +57,23 @@
 }
 
 .card-top{
-  padding: 5%;
+  padding: 1%;
 
 
 }
 
 .card-bottom a{
   display: block;
-  color: green;
+  color: #fff;
 }
 
 .card-bottom{
-background: yellow;
+background: #B1F75C;
 box-shadow: 5px 5px 5px green;
 color: #fff;
 padding: 2%;
 border-radius: 0px 0px 10px 10px;
-text-shadow: 3px 3px 3px red;
+text-shadow: 2px 2px 2px red;
 }
 
 .card2{
@@ -87,7 +86,7 @@ text-shadow: 3px 3px 3px red;
 }
 
 .header{
-  background: blue;
+  background: #44F4FA;
   text-align: center;
   font-size: 20px;
   color: red;
@@ -99,13 +98,15 @@ text-shadow: 3px 3px 3px red;
 
 .header a{
   color: #fff;
-  text-shadow: 3px 3px 3px red;
+  
 }
 ul{
-  color:blue;
+  color:#5EA509;
 }
 li{
   font-size: 20px;
-  color:orange;
+  color:#BA360C;
   font-style: italic;
+
+
 }
